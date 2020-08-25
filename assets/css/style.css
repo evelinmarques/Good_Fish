@@ -139,3 +139,24 @@ input[type=text] {
     border-color: #6daadb;
     color: white;
 }
+
+.adress {
+    float: left;
+    margin-left: 40px;
+}
+
+.adress2 {
+    float:left;
+    margin-left: 10px;
+}
+
+.contact {
+    float: right;
+    margin-right: 50px;
+    margin-top: -40px;
+}
+
+.contact2 {
+    float: right;
+    margin-right: 30px;
+}
